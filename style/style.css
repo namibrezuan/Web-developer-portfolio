@@ -1,11 +1,5 @@
 /* header section  */
-/* 
-.banner{
-text-align: center;
-font-size: 72px;
-font-style: normal;
-font-weight: 900;
-line-height: 95px;} */
+
 
 
 
@@ -42,7 +36,29 @@ line-height: 95px;
     
 }
 /* third block  */
-#Welcome{
-    color:#FFF; ;
+.party{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-image: url('../images/Vectorrr.png');
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 50px 140px ;
+  
+ 
 }
+.colore{
+    color: #FFF;
+}
+.rong{
+    color: red;
+}
+.list{
+    list-style: none;
+ margin: 50px;
+}
+
+
 
