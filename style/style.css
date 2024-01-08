@@ -1,0 +1,48 @@
+/* header section  */
+/* 
+.banner{
+text-align: center;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px;} */
+
+
+
+.cotiner{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* padding: 50px 140px; */
+    justify-content: center;
+    background-image: url('../images/Banner\ Image.png');
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 50px 140px ;
+ 
+
+}
+.content{
+    color: #fdfcfc;
+text-align: center;
+font-size: 72px;
+font-weight: 900;
+line-height: 95px;
+}
+/* secend block  */
+.all{
+   
+    text-align: center;
+    font-weight: 900px;
+  
+}
+.red{
+    color: red;
+    
+}
+/* third block  */
+#Welcome{
+    color:#FFF; ;
+}
+
